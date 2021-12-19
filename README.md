@@ -10,3 +10,13 @@
 ### To run your application. 
 - execute command `npm start` inside frontend repository. 
 - execute command `nodemon server.js` inside backend repository
+
+
+### Technology used in this project:
+- React
+- Express
+- JSON
+- RestFul API
+- Bootstrap
+- CSS3
+- HTML5
