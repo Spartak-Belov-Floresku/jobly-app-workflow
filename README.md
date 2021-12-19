@@ -6,3 +6,7 @@
 - Run the `npm install` command to set up the frontend inside the frontend repository. 
 - The same command `npm install` you need run inside backend repository to stepup the backend of the application. 
 - To create the jobly database for the backend solution using the jobly.sql file by executing the command `psql < jobly.sql` inside the backend repository.
+
+### To run your application. 
+- execute command `npm start` inside frontend repository. 
+- execute command `nodemon server.js` inside backend repository
