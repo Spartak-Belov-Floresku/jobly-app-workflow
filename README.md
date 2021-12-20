@@ -11,6 +11,9 @@
 - execute command `npm start` inside frontend repository. 
 - execute command `nodemon server.js` inside backend repository
 
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jobly-app-workflow/main/frontend/public/logos/first.png">
+
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/jobly-app-workflow/main/frontend/public/logos/second.png">
 
 ### Technology used in this project:
 - React
