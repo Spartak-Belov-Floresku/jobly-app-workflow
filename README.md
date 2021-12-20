@@ -1,6 +1,6 @@
 # Jobly App Workflow
 
-### This app was built using *React.js* for the frontend and *Express.js* for the backend. The app simulates job posting websites and can be used as a website on live web servers there for example, [Jobly-App-Workflow](http://zonked-breath.surge.sh/) or check [The backend of the application](https://jobly-app-workflow.herokuapp.com/)
+### This app was built using *React.js* for the frontend and *Express.js & Postgresql* for the backend. The app simulates job posting websites and can be used as a website on live web servers there for example, [Jobly-App-Workflow](http://zonked-breath.surge.sh/) or check [The backend of the application](https://jobly-app-workflow.herokuapp.com/)
 
 ### Alternatively, you can set up this project locally and run it.
 
@@ -21,6 +21,7 @@
 ### Technology used in this project:
 - React
 - Express
+- Postgresql
 - Bootstrap
 - CSS3
 - HTML5
