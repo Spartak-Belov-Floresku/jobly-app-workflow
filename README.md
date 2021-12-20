@@ -15,8 +15,6 @@
 ### Technology used in this project:
 - React
 - Express
-- JSON
-- RestFul API
 - Bootstrap
 - CSS3
 - HTML5
